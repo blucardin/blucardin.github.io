@@ -1,4 +1,4 @@
-baseURL = "https://blucardin.github.io/Personal-Website-2/"
+baseURL = "https://blucardin.github.io"
 title = "johndoe"
 theme = "hugo-coder"
 languageCode = "en"
