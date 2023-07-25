@@ -5,4 +5,8 @@ draft: false
 ---
 
 
-I am still working on adding all my contacts to this page, but you can see all of my external social media links on my home page. 
+LinkedIn: https://www.linkedin.com/in/noah-virjee-939029193/
+GitHub: https://github.com/blucardin
+Instagram: https://www.instagram.com/noahvirjee31/
+Devpost: https://devpost.com/noah-virjee
+
