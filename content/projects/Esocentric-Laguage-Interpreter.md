@@ -1,6 +1,6 @@
 ---
 title: "Esocentric Laguage Interpreter"
-date: 2023-07-22T02:03:26-07:00
+date: 2021-07-31
 draft: false
 ---
 

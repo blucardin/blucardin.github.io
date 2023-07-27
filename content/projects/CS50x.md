@@ -1,6 +1,6 @@
 ---
 title: "CS50x"
-date: 2023-07-22T02:03:26-07:00
+date: 2023-02-27
 draft: false
 ---
 
@@ -11,17 +11,17 @@ CS50x is Harvard University’s introduction to the intellectual enterprises of 
 More information about CS50 can be found here: https://cs50.harvard.edu/x/2023/
 
 The course has 11 weeks (each with their own lab and problem set) and a final project: 
-	1	Scratch		 
-	2	C		
-	3	Arrays		
-	4	Algorithms		 
-	5	Memory		
-	6	Data Structures	
-	7	Python		 
-	8	SQL		 
-	9	HTML, CSS, JavaScript
-	10	Flask
-	11	Emoji
+1. Scratch 
+2. C
+3. Arrays
+4. Algorithms 
+5. Memory
+6. Data Structures
+7. Python 
+8. SQL 
+9. HTML, CSS, JavaScript
+10. Flask
+11. Emoji
 
 To pass the course, I was required to complete all coursework (problem sets, labs, and the final project) with full marks. 
 I learned a lot and I am happy that I took CS50x. I was so moved by the incredible problem sets and teaching style, I decided to teach my own CS50x class at my school. 
