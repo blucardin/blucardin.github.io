@@ -1,6 +1,6 @@
 ---
 title: "Website Snake"
-date: 2023-07-22T02:03:27-07:00
+date: 2022-06-17
 draft: false
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Fractals"
-date: 2023-07-22T02:03:27-07:00
+date: 2022-03-06
 draft: false
 ---
 
