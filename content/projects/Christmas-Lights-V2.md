@@ -1,5 +1,5 @@
 ---
-title: "Chrsistmas Lights Version 2"
+title: "Christmas Lights Version 2"
 date: 2024-01-04
 draft: false
 ---
