@@ -1,10 +1,10 @@
 ---
 title: "Chrsistmas Lights Version 2"
-date: 2022-01-04
+date: 2024-01-04
 draft: false
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qRL0N3ooU7c?si=6yHi9NtoIwvrpivd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="475"src="https://www.youtube.com/embed/qRL0N3ooU7c?si=6yHi9NtoIwvrpivd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 This project is a continuation of my [Christmas Lights](/projects/Christmas-Lights) project.
 
