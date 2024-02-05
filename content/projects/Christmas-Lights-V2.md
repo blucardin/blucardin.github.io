@@ -6,7 +6,7 @@ draft: false
 
 <iframe width="100%" height="475"src="https://www.youtube.com/embed/qRL0N3ooU7c?si=6yHi9NtoIwvrpivd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-This project is a continuation of my [Christmas Lights](/projects/Christmas-Lights) project.
+This project is a continuation of my [Christmas Lights](/projects/chrsistmas-lights) project.
 
 ## Overview
 My Christmas tree lights project involved playing video on a set of addressable Christmas tree lights. 
