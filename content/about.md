@@ -6,7 +6,7 @@ draft: False
 
 I am a ~~grade 12 high school student~~ aspiring developer in Toronto, Canada. I like helping people, solving problems, and doing cool things. 
 
-My best projects so far are a [video display made of addressable Christmas Lights](/projects/chrsistmas-lights) and an [analytics dashboard](/projects/ers-dashboard). 
+My best projects so far are a [video display made of addressable Christmas Lights](/projects/christmas-lights-v2) and an [analytics dashboard](/projects/ers-dashboard). 
 
 I also have done some [fractal stuff](/projects/fractals) if you want something cool to look at.
 
@@ -16,22 +16,7 @@ I mostly work in python, but I also know Javascipt (for web development), java (
 
 Currently, I'm looking into AI stuff, it seems trendy. 
 
-## My motivation for this site
-There are three main reasons why I created this website:
 
-1. I am a relatively young computer *enthusiast* and I need to prove that I know how to do computer stuff without actually doing too much computer stuff. The easiest way to do this is to create a website.
-
-2. I have seen lots of other people's websites. They all look really cool and *professional*, and who doesn't want to look cool and professional?
-
-3. I wanted a bit of a *personal* log of all the stuff that I have been up to over the years. 
-
-4. **Job Applications!** Websites look cool, don't they? 
-
-5. Procrastination on other tasks.
-
-I hope you enjoy poking around. 
-
-
-# Last Updated July 22, 2023
+# Last Updated Feb 4, 2024
 Like most personal blogs, this site is constantly out of date with all the fun stuff I'm currently doing. Mostly because I'm too busy doing the fun stuff to update it.
 
