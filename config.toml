@@ -69,6 +69,10 @@ customJS = []
 [params.googleTagManager]
 id = "G-ZQXMHVPTE6"
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 # If you want to implement a Content-Security-Policy, add this section
 # [params.csp]
 # childsrc = ["'self'"]
