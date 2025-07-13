@@ -8,6 +8,8 @@ draft: false
 
 ## I Wrote a Chess Engine!
 
+You can play it in the IFrame above, or [here](https://blucardin.github.io/chess_engine/). 
+
 It uses minimax trees with alpha-beta pruning and a human-generated evaluation function. 
 
 Then to make it faster, instead of evaluating the board entirely at the end of every search, it just evaluates the board once at the start, and tracks it's value down through the tree by applying the value delta caused by each move.  
@@ -20,6 +22,6 @@ I am still working on optimizing the memory usage - right now it is copying ever
 
 I am planning to implement neural network or evolutionary guided heuristic functions in the future, but with limited experiments, using even a shallow neural network to evaluate board transpositions proved to be too slow to allow a lookahead of more than a few moves. If I get around to it, I would even like to write something that used rollouts to estimate value for monte-carlo tree search. 
 
-I am extremely satisfied with this project, it can even beat some of my friends who are 2000+ ELO players. Next step is to connect it to the Lichess Bot API so I can get its ELO confirmed. 
+I am extremely satisfied with this project, it can even beat some of my friends who are 1500+ ELO players. Next step is to connect it to the Lichess Bot API so I can get its ELO confirmed. 
 
 
