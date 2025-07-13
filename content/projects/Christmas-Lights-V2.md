@@ -1,6 +1,7 @@
 ---
 title: "Christmas Lights Version 2"
 date: 2024-01-04
+featuredImage: 
 draft: false
 ---
 

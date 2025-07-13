@@ -117,13 +117,13 @@ icon = "fa fa-2x fa-linkedin"
 weight = 4
 url = "https://www.linkedin.com/in/noah-virjee-939029193/"
 
-[[params.social]]
-name = "RSS"
-icon = "fa fa-2x fa-rss"
-weight = 6
-url = "https://blucardin.github.io/index.xml"
-rel = "alternate"
-type = "application/rss+xml"
+# [[params.social]]
+# name = "RSS"
+# icon = "fa fa-2x fa-rss"
+# weight = 6
+# url = "https://blucardin.github.io/index.xml"
+# rel = "alternate"
+# type = "application/rss+xml"
 
 [languages.en]
 languageName = ":uk:"
