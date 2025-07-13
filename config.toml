@@ -115,14 +115,20 @@ url = "https://github.com/blucardin/"
 [[params.social]]
 name = "Instagram"
 icon = "fa fa-2x fa-instagram"
-weight = 4
+weight = 2
 url = "https://www.instagram.com/noahvirjee31/"
 
 [[params.social]]
 name = "LinkedIn"
 icon = "fa fa-2x fa-linkedin"
-weight = 4
+weight = 3
 url = "https://www.linkedin.com/in/noah-virjee-939029193/"
+
+[[params.social]]
+name = "Resume"
+icon = "fa fa-2x fa-file-text"
+weight = 4
+url = "https://blucardin.github.io/resume/Noah_Virjee_CV.pdf"
 
 # [[params.social]]
 # name = "RSS"
